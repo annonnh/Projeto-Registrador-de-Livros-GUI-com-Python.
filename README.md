@@ -3,7 +3,7 @@ Um registrador de livros leve e fácil de usar para bibliotecas e livrarias de p
 
 # Para executar o executável em seu sistema GNU/Linux siga os seguintes passos:
 
-1- Baixe o executável(RegistradordeLivros-executavel_Linux) e coloque na pasta Downloads
+1- Baixe o executável(RegistradordeLivros-executavel_Linux) e coloque-o na pasta Downloads
 
 2- Abra o terminal na pasta Downloads e digite: sudo chmod +x RegistradordeLivros-executavel_Linux 
 
